@@ -1,3 +1,15 @@
+#Cocos2d
+libs/
+bin/
+obj/
+assets/
+gen/
+out/
+.classpath
+.project
+.cproject
+
+
 # Compiled Object files
 *.slo
 *.lo
